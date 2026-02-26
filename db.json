@@ -1,1 +1,9 @@
-{ "users": [] }
+{
+  "users": [
+    {
+      "email": "alicehung@gmail.com",
+      "password": "$2a$10$6VvhBTyoys5YRS/CNGCV.evzXFCz4jEoYKUwdBPSz9U2V4gUT3.ym",
+      "id": 1
+    }
+  ]
+}
